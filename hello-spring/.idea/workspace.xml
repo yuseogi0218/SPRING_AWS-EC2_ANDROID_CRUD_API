@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d2a995fd-8cfe-49e0-adfc-5b3fd95bcb03" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/HomeController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/MemberController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/controller/MemberController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/domain/Member.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/domain/Member.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/repository/JpaMemberRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/repository/JpaMemberRepository.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/hello/hellospring/service/MemberService.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/hello/hellospring/service/MemberService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sql/ddl.sql" beforeDir="false" afterPath="$PROJECT_DIR$/sql/ddl.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/SpringConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/HomeController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/MemberController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/controller/MemberController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/domain/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/domain/Member.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/repository/JpaMemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/repository/JpaMemberRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/hello/hellospring/service/MemberService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/hello/hellospring/service/MemberService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/hello-static.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" />
-    </list>
+    <list default="true" id="d2a995fd-8cfe-49e0-adfc-5b3fd95bcb03" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +43,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -106,19 +90,6 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.HelloSpringApplicationTests">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HelloSpringApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="hello-spring.test" />
       <extension name="coverage">
@@ -235,6 +206,7 @@
       <workItem from="1627169196673" duration="166000" />
       <workItem from="1627169420143" duration="9709000" />
       <workItem from="1627195879100" duration="25318000" />
+      <workItem from="1627283645771" duration="99000" />
     </task>
     <servers />
   </component>
@@ -251,6 +223,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
