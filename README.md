@@ -11,11 +11,11 @@ ___
 
 ___
 - ### 프로젝트 개요<a id="outline"></a> 
-  - 하게 된 이유.
+  - Java Spring FrameWork 와 
   - 의존성 설명
 ___
 - ### 요구사항<a id="requirements"></a>
-  - 각 도메인 별 → 기능 별 간단히 설명 
+  - CRUD
 ___
 - ### 프로젝트 구조 <a id="structure"></a> 
   - 클래스 다이어그램 추가
