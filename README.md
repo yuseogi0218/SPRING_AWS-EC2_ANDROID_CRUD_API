@@ -95,7 +95,7 @@ ___
         ||user_id|(String)user_id|
 ___
 - ### 화면<a id="screen"></a> 
-  - 클라이언트
+  - Client
     - ![](Client.png)
-  - MySQL 워크벤치
+  - MySQL DDL
     - ![](MySQL.png)
