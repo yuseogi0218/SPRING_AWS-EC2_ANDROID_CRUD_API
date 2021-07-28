@@ -23,7 +23,7 @@ ___
     - 사용자 정보 등록 / 조회 / 수정 / 삭제 기능 구현
 ___
 - ### 프로젝트 구조 <a id="structure"></a> 
-  - ![](ClassDiagram.png)
+  - ![](Class_Diagram.png)
   - HTTP 통신
     - CREATE
       - |항목|Key|Value|
